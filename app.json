@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "Modern Matric Higher Secondary School",
+    "slug": "modern-matric-school",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "platforms": ["ios", "android", "web"]
+  }
+}
+
